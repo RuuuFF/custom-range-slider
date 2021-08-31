@@ -1,6 +1,6 @@
 # ⚙️ Projeto
 
-Controle deslizante customizado utilizando seletores vendor-prefixed (-webkit-, -moz-, -ms-, etc), do css e JavaScript para movimentar o movimentar e alterar o valor do indicador do controle deslizante. Foi desenvolvido no curso <a href="https://www.udemy.com/share/103Pv2AEcYdFxQQXUH">50 Projects In 50 Days</a>.
+Controle deslizante customizado utilizando seletores vendor-prefixed (-webkit-, -moz-, -ms-, etc) e JavaScript para movimentar e alterar o valor do indicador do controle deslizante. Foi desenvolvido no curso <a href="https://www.udemy.com/share/103Pv2AEcYdFxQQXUH">50 Projects In 50 Days</a>.
 
 # ✈️ Tecnologias
 
